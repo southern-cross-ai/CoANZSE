@@ -1,0 +1,310 @@
+{
+    "id": 6300374,
+    "identifier": "DVN/GW35AK",
+    "persistentUrl": "https://doi.org/10.7910/DVN/GW35AK",
+    "protocol": "doi",
+    "authority": "10.7910",
+    "publisher": "Harvard Dataverse",
+    "publicationDate": "2022-08-30",
+    "storageIdentifier": "s3://10.7910/DVN/GW35AK",
+    "datasetVersion": {
+        "id": 350040,
+        "datasetId": 6300374,
+        "datasetPersistentId": "doi:10.7910/DVN/GW35AK",
+        "storageIdentifier": "s3://10.7910/DVN/GW35AK",
+        "versionNumber": 5,
+        "versionMinorNumber": 0,
+        "versionState": "RELEASED",
+        "lastUpdateTime": "2023-09-07T13:43:53Z",
+        "releaseTime": "2023-09-07T13:43:53Z",
+        "createTime": "2023-09-07T13:36:11Z",
+        "publicationDate": "2022-08-30",
+        "citationDate": "2022-08-30",
+        "termsOfUse": "<p dir=\"ltr\">I. Acceptance of this Agreement</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">By downloading or otherwise accessing the Materials, Downloader represents his/her acceptance of the terms of this Agreement.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">II. Modification of this Agreement</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">Users may modify the terms of this Agreement at any time. However, any modifications to this Agreement will only be effective for downloads subsequent to such modification. No modifications will supersede any previous terms that were in effect at the\n    time of the Downloader's download.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">III. Use of the Materials</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">Use of the Materials include but are not limited to viewing parts or the whole of the content included in the Materials; comparing data or content from the Materials with data or content in other Materials; verifying research results with the content included in the Materials; and extracting and/or appropriating any part of the content included in the Materials for use in other projects, publications, research, or other related work products.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">1. Representations</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">A. In Use of the Materials, Downloader represents that:</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">1. Downloader is not bound by any pre-existing legal obligations or other applicable laws that prevent Downloader from downloading or using the Materials;</p>\n<p dir=\"ltr\">2. Downloader will not use the Materials in any way prohibited by applicable laws;</p>\n<p dir=\"ltr\">3. Downloader has no knowledge of and will therefore not be responsible for any restrictions regarding the use of Materials beyond what is described in this Agreement; and</p>\n<p dir=\"ltr\">4. Downloader has no knowledge of and will therefore not be responsible for any inaccuracies and any other such problems with regards to the content of the Materials and the accompanying citation information.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">B. Restrictions In his/her Use of the Materials, Downloaders cannot:</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">1. obtain information from the Materials that results in Downloader or any third party(ies) directly or indirectly identifying any research subjects with the aid of other information acquired elsewhere;</p>\n<p dir=\"ltr\">2. produce connections or links among the information included in User's datasets (including information in the Materials), or between the information included in User's datasets (including information in the Materials) and other third-party information\n    that could be used to identify any individuals or organizations, not limited to research subjects; and</p>\n<p dir=\"ltr\">3. extract information from the Materials that could aid Downloader in gaining knowledge about or obtaining any means of contacting any subjects already known to Downloader.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">IV. Representations and Warranties</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">USER REPRESENTS THAT USER HAS ALL RIGHTS REQUIRED TO MAKE AVAILABLE AND DISTRIBUTE THE MATERIALS. EXCEPT FOR SUCH REPRESENTATION, THE MATERIALS ARE PROVIDED \"AS IS\" AND \"AS AVAILABLE\" AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">WITHOUT LIMITING THE FOREGOING, USER DOES NOT WARRANT THAT: (A) THE MATERIALS ARE ACCURATE, COMPLETE, RELIABLE OR CORRECT; (B) THE MATERIALS FILES WILL BE SECURE; (C) THE MATERIALS WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (D) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (E) THE MATERIALS AND ACCOMPANYING FILES ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (F) THE RESULTS OF USING THE MATERIALS WILL MEET DOWNLOADER'S REQUIREMENTS. DOWNLOADER'S USE OF THE MATERIALS IS SOLELY AT DOWNLOADER'S OWN RISK.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">V. Limitation of Liability</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">IN NO EVENT SHALL USER BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL THEORY WITH RESPECT TO THE MATERIALS (I) FOR ANY DIRECT DAMAGES, OR (II) FOR ANY LOST PROFITS OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL\n    DAMAGES OF ANY KIND WHATSOEVER.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">VI. Indemnification</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">Downloader will indemnify and hold User harmless from and against any and all loss, cost, expense, liability, or damage, including, without limitation, all reasonable attorneys' fees and court costs, arising from the i) Downloader's misuse of the\n    Materials; (ii) Downloader's violation of the terms of this Agreement; or (iii) infringement by Downloader or any third party of any intellectual property or other right of any person or entity contained in the Materials. Such losses, costs, expenses, damages, or liabilities shall include, without limitation, all actual, general, special, and consequential damages.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">VII. Dispute Resolution</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">Downloader and User agree that any cause of action arising out of or related to the download or use of the Materials must commence within one (1) year after the cause of action arose; otherwise, such cause of action is permanently barred.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">This Agreement shall be governed by and interpreted in accordance with the laws of the Commonwealth of Massachusetts (excluding the conflict of laws rules thereof). All disputes under this Agreement will be resolved in the applicable state or federal\n    courts of Massachusetts. Downloader consents to the jurisdiction of such courts and waives any jurisdictional or venue defenses otherwise available.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">VIII. Integration and Severability</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">This Agreement represents the entire agreement between Downloader and User with respect to the downloading and use of the Materials, and supersedes all prior or contemporaneous communications and proposals (whether oral, written or electronic) between\n    Downloader and User with respect to downloading or using the Materials. If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement\n    will otherwise remain in full force and effect and enforceable.</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">IX. Miscellaneous</p>\n<p dir=\"ltr\"><br></p>\n<p dir=\"ltr\">User may assign, transfer or delegate any of its rights and obligations hereunder without consent. No agency, partnership, joint venture, or employment relationship is created as a result of the Agreement and neither party has any authority of any kind to bind the other in any respect outside of the terms described within this Agreement. In any action or proceeding to enforce rights under the Agreement, the prevailing party will be entitled to recover costs and attorneys' fees.</p>",
+        "restrictions": "The corpus is available for the non-commercial purposes of research, educatioaBlocks": {
+            "citation": {
+                "displayName": "Citation Metadata",
+                "name": "citation",
+                "fields": [
+                    {
+                        "typeName": "title",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "Corpus of Australian and New Zealand Spoken English"
+                    },
+                    {
+                        "typeName": "author",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "authorName": {
+                                    "typeName": "authorName",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Coats, Steven"
+                                },
+                                "authorAffiliation": {
+                                    "typeName": "authorAffiliation",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "University of Oulu"
+                                },
+                                "authorIdentifierScheme": {
+                                    "typeName": "authorIdentifierScheme",
+                                    "multiple": false,
+                                    "typeClass": "controlledVocabulary",
+                                    "value": "ORCID"
+                                },
+                                "authorIdentifier": {
+                                    "typeName": "authorIdentifier",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "0000-0002-7295-3893"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "datasetContact",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "datasetContactName": {
+                                    "typeName": "datasetContactName",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Coats, Steven"
+                                },
+                                "datasetContactAffiliation": {
+                                    "typeName": "datasetContactAffiliation",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "University of Oulu"
+                                },
+                                "datasetContactEmail": {
+                                    "typeName": "datasetContactEmail",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "steven.coats@oulu.fi"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "dsDescription",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "dsDescriptionValue": {
+                                    "typeName": "dsDescriptionValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "The Corpus of Australian and New Zealand Spoken English (CoANZSE) is a 196-million-word corpus of geolocated automatic speech recognition (ASR) YouTube transcripts from local government channels in Australia and New Zealand, created for the study of lexical, grammatical, and discourse-pragmatic phenomena of spoken language, as well as for content and language analysis in digital humanities and social science fields. Annotation includes individual word timings and video IDs of transcripts, making it easy to instantly view the video(s) for any given search. The corpus was created from 55,896 ASR transcripts from 472 YouTube channels, corresponding to almost 24,007 hours of video. The size of the corpus is 195,583,873 tokens. The channels sampled in the corpus are associated with local government entities such as local, city, county, district, and regional councils, and transcripts are from a range of video types. Recordings of public meetings are well-represented. \n\nRelated resources are the <a href=\"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X8QJJV\" target=\"_blank\">Corpus of North American Spoken English</a> and the <a href=\"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UGIIWD\" target=\"blank_\">Corpus of British Isles Spoken English</a>."
+                                },
+                                "dsDescriptionDate": {
+                                    "typeName": "dsDescriptionDate",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2022-05-20"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "subject",
+                        "multiple": true,
+                        "typeClass": "controlledVocabulary",
+                        "value": [
+                            "Arts and Humanities",
+                            "Computer and Information Science",
+                            "Social Sciences",
+                            "Other"
+                        ]
+                    },
+                    {
+                        "typeName": "keyword",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "corpus linguistics"
+                                }
+                            },
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "dialectology"
+                                }
+                            },
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "spoken language"
+                                }
+                            },
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "speech transcripts"
+                                }
+                            },
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "Australia"
+                                }
+                            },
+                            {
+                                "keywordValue": {
+                                    "typeName": "keywordValue",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "New Zealand"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "notesText",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "The untagged corpus is contained in the file coanzse_tokens_distributable_02072023.csv.gz. The PoS-tagged corpus with word timings is coanzse_textpos_distributable_02072023.csv.gz. The separator for both files is the pipe character \"|\". The files have the columns 'country', 'state', 'council_name', 'channel_title', 'channel_url', 'video_title', 'video_id', 'upload_date', 'video_length', 'location','nr_words','text_pos' (or 'text', in the untagged version), and 'latlong'. Each row corresponds to an individual transcript. In order to comply with Fair Use provisions of US copyright law, the original ASR transcript files from YouTube have been transformed in this version of the corpus: Every 200 words, ten words have been replaced with \"@\". In the PoS-tagged and word-timed corpus, these tokens have the form @_XX_1.0. See also https://cc.oulu.fi/~scoats/CoANZSE.html"
+                    },
+                    {
+                        "typeName": "language",
+                        "multiple": true,
+                        "typeClass": "controlledVocabulary",
+                        "value": [
+                            "English"
+                        ]
+                    },
+                    {
+                        "typeName": "depositor",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "Coats, Steven"
+                    },
+                    {
+                        "typeName": "dateOfDeposit",
+                        "multiple": false,
+                        "typeClass": "primitive",
+                        "value": "2022-05-20"
+                    },
+                    {
+                        "typeName": "timePeriodCovered",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "timePeriodCoveredStart": {
+                                    "typeName": "timePeriodCoveredStart",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2007-03-28"
+                                },
+                                "timePeriodCoveredEnd": {
+                                    "typeName": "timePeriodCoveredEnd",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2022-04-14"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "dateOfCollection",
+                        "multiple": true,
+                        "typeClass": "compound",
+                        "value": [
+                            {
+                                "dateOfCollectionStart": {
+                                    "typeName": "dateOfCollectionStart",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2022-02-01"
+                                },
+                                "dateOfCollectionEnd": {
+                                    "typeName": "dateOfCollectionEnd",
+                                    "multiple": false,
+                                    "typeClass": "primitive",
+                                    "value": "2022-04-15"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "typeName": "relatedDatasets",
+                        "multiple": true,
+                        "typeClass": "primitive",
+                        "value": [
+                            "<a href=\"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X8QJJV\">Corpus of North American Spoken English</a>",
+                            "<a href=\"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UGIIWD\">Corpus of British Isles Spoken English</a>",
+                            "<a href=\"https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3Y1YVB\">Corpus of German Speech</a>"
+                        ]
+                    }
+                ]
+            }
+        },
+        "files": [
+            {
+                "label": "coanzse_textpos_distributable_07092023.csv.gz",
+                "restricted": true,
+                "version": 1,
+                "datasetVersionId": 350040,
+                "dataFile": {
+                    "id": 7356511,
+                    "persistentId": "",
+                    "filename": "coanzse_textpos_distributable_07092023.csv.gz",
+                    "contentType": "application/gzip",
+                    "filesize": 1073422403,
+                    "storageIdentifier": "s3://dvn-cloud:18a6fda87ed-37fb94254406",
+                    "rootDataFileId": 7226258,
+                    "previousDataFileId": 7226258,
+                    "md5": "9f537ef824aadcff4e2637eb2c9108d5",
+                    "checksum": {
+                        "type": "MD5",
+                        "value": "9f537ef824aadcff4e2637eb2c9108d5"
+                    },
+                    "creationDate": "2023-09-07"
+                }
+            },
+            {
+                "label": "coanzse_tokens_distributable_02072023.csv.gz",
+                "restricted": true,
+                "version": 1,
+                "datasetVersionId": 350040,
+                "dataFile": {
+                    "id": 7226259,
+                    "persistentId": "",
+                    "filename": "coanzse_tokens_distributable_02072023.csv.gz",
+                    "contentType": "application/gzip",
+                    "filesize": 317930074,
+                    "storageIdentifier": "s3://dvn-cloud:1891db47151-9757165cc342",
+                    "rootDataFileId": -1,
+                    "md5": "291f80b31bb1167f41d7843385a079a7",
+                    "checksum": {
+                        "type": "MD5",
+                        "value": "291f80b31bb1167f41d7843385a079a7"
+                    },
+                    "creationDate": "2023-07-03"
+                }
+            }
+        ],
+        "citation": "Coats, Steven, 2022, \"Corpus of Australian and New Zealand Spoken English\", https://doi.org/10.7910/DVN/GW35AK, Harvard Dataverse, V5"
+    }
+}
