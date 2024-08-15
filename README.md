@@ -33,10 +33,10 @@ The original dataset contains 2 large `.gz` files from [Harvard Dataverse - Corp
 
 We keep the metadata `metadata.json` of the dataset inside `CoANZSE/original`.
 
-Under `CoANZSE/csv`, we split the unzipped large `.csv` files into 12 small `.csv` files:
+Under `CoANZSE/csv`, we split the unzipped large `.csv` files into 272 small `.csv` files:
 
-- `coanzse_tokens_distributable_02072023_[0-3].csv`: contains approximately 13974 rows in each file.
-- `coanzse_textpos_distributable_07092023_[0-7].csv`: contains approximately 6987 rows in each file.
+- `coanzse_tokens_distributable_02072023_[0-135].csv`: contains approximately 411 rows in each file, 136 files in total.
+- `coanzse_textpos_distributable_07092023_[0-135].csv`: contains approximately 411 rows in each file, 136 files in total.
 
 You can also download the `.gz` files, then run `python3 utils/split_csv.py --help` to see all split options.
 
