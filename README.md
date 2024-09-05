@@ -6,7 +6,7 @@ The dataset has limited access and requires access/download permission from [Har
 
 Please acknowledge that the dataset owners are [Steven Coats](https://cc.oulu.fi/~scoats/) and [Jeremy Yuenger](https://www.iq.harvard.edu/people/jeremy-yuenger). This repository is only used for study and research purposes for [Southern Cross AI](https://github.com/southern-cross-ai). 
 
-Any commercial use is not permitted by the dataset owner. Any distribution of this repository is not recommended. For more information, please read **License and Terms of Use**, or visit [Harvard Dataverse - Community Norms](https://dataverse.org/best-practices/dataverse-community-norms) and the [original dataset page]( https://doi.org/10.7910/DVN/GW35AK).
+Any commercial use is not permitted by the dataset owner. Any distribution of this repository is not recommended. For more information, please read [License and Terms of Use](#license-and-terms-of-use), or visit [Harvard Dataverse - Community Norms](https://dataverse.org/best-practices/dataverse-community-norms) and the [original dataset page]( https://doi.org/10.7910/DVN/GW35AK).
 
 ## Overview
 
@@ -49,6 +49,11 @@ The files have the **columns** 'country', 'state', 'council_name', 'channel_titl
 Each **row** corresponds to an individual transcript. 
 
 In order to comply with Fair Use provisions of US copyright law, the original ASR transcript files from YouTube have been transformed into this version of the corpus: **For every 200 words, 10 words have been replaced with "@". In the PoS-tagged and word-timed corpus, these tokens have the form @_XX_1.0.** See also https://cc.oulu.fi/~scoats/CoANZSE.html.
+
+---
+
+A cleaned dataset by [Xinyu Mao](https://github.com/Xinyu990511) is available under `CoANZSE_clean`. You can also use it directly from [Hugging Face - SouthernCrossAI/CoANZSE_Corpus_of_Australian_and_New_Zealand_Spoken_English](https://huggingface.co/datasets/SouthernCrossAI/CoANZSE_Corpus_of_Australian_and_New_Zealand_Spoken_English).
+
 
 ## License and Terms of Use
 
